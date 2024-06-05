@@ -71,6 +71,6 @@ This repository contains a basic implementation of OAuth 2.0 Authorization Code 
 
     After successful authorization, you will be redirected to the profile page where you can see your user profile information.
 
-## Project Structure
+
 
 
